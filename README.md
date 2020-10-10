@@ -16,5 +16,5 @@ test penggunaan Git dalam konsole Linux
 - Membuka file yang sudah dirubah di command line
 - Edit file
 - Mengirim file ke Github
-- Meubah di Githun
+- Meubah di Github
 - Mem-pull dari lokal
