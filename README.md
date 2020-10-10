@@ -11,3 +11,8 @@ test penggunaan Git dalam konsole Linux
 - Tambahkan ke daftar file yang dirubah dengan perintah 'git add'
 - Simpan perubahan dengan git commit
 - Kirim perubahan ke github dengan git push
+
+## Menggunakan GIT dengan Pycharm
+- Membuka file yang sudah dirubah di command line
+- Edit file
+- Mengirim file ke Github
