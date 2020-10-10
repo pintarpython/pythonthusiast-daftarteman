@@ -7,3 +7,7 @@ test penggunaan Git dalam konsole Linux
 - Buat repository
 - Copy alamat SSH
 - Clone dengan perintah git clone <alamat ssh>
+- Ubah file
+- Tambahkan ke daftar file yang dirubah dengan perintah 'git add'
+- Simpan perubahan dengan git commit
+- Kirim perubahan ke github dengan git push
