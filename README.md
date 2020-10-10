@@ -1,4 +1,4 @@
-# pythonthusiast-daftarteman
+# Daftar Buku - Sebuah Proyek Pythonthusiast
 test penggunaan Git dalam konsole Linux
 
 ## Menggunakan Git dengan Command Line
