@@ -13,6 +13,7 @@ test penggunaan Git dalam konsole Linux
 - Kirim perubahan ke github dengan git push
 
 ## Menggunakan GIT dengan Pycharm
+- Menggunakan Pycharm terkini, 
 - Membuka file yang sudah dirubah di command line
 - Edit file
 - Mengirim file ke Github
