@@ -27,6 +27,10 @@ test penggunaan Git dalam konsole Linux
 - meng-commit kode dan me-review  perubahan pada file terlebih dahulu
 - mem-push branch tersebut
 
+## Instalasi GIT
+- Menggunakan linux, cukup dengan apt install git
+- Menggunakan windows, dengan mendownload tool GIT di https://git-scm.com/downloads
+
 ## Kesimpulan
 - Dengan GIT dan Github, kode akan aman jika hardisk rusak
 - Memiliki repository github yg public akan menjadikan portofolio
