@@ -18,3 +18,11 @@ test penggunaan Git dalam konsole Linux
 - Mengirim file ke Github
 - Meubah di Github
 - Mem-pull dari lokal
+
+{## Menggunakan GIT di Team
+- Mulai bekerja melihat issue Tracker
+- Bekerja tidak pada main, tetapi pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Merubah kode pada branch tersebut
+- meng-commit kode
+- mem-push branch tersebut
