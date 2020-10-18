@@ -24,5 +24,5 @@ test penggunaan Git dalam konsole Linux
 - Bekerja tidak pada main, tetapi pada branch tersendiri
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
 - Merubah kode pada branch tersebut
-- meng-commit kode
+- meng-commit kode, dan me-review  perubahan pada file terlebih dahulu
 - mem-push branch tersebut
