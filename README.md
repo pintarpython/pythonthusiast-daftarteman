@@ -18,3 +18,7 @@ test penggunaan Git dalam konsole Linux
 - Mengirim file ke Github
 - Meubah di Github
 - Mem-pull dari lokal
+
+## Kesimpulan
+- Dengan GIT dan Github, kode akan aman jika hardisk rusak
+- Memiliki repository github yg public akan menjadikan portofolio
